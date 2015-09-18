@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ScoreTracker/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ead586eb7c96a1b59b6edba2d4916b69f687cb94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ScoreTracker/app/build/intermediates/pre-dexed/debug/classes-0c82d5d1e43a00017885eb0ddf4c9677d9938abf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ScoreTracker/app/build/intermediates/pre-dexed/debug/socialauth-4.4-097b899e11b0ce58eeb489a2c9850372dfd0f173.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ScoreTracker/app/build/intermediates/pre-dexed/debug/classes-aca031d43c4f6c6477d1051802e04e4dab11bff0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ScoreTracker/app/build/intermediates/pre-dexed/debug/socialauth-android-3.2-6e5c806ee261c1d52cba7366f1fcdb84d6fbc767.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ScoreTracker/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1a5d0ee3cf538418a9e6db69cea0deabe6dafd6c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
